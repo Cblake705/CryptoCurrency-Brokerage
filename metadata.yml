@@ -1,0 +1,12 @@
+---
+:id: 213387057
+:submitters:
+- :name: Christian Blake
+  :email: cblake1681@sdsu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-16 21:04:29.576097000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-16 13:04:29.576097000 Z
+:status: processed
+:score: 43.0
